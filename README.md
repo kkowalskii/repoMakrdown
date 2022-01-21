@@ -36,3 +36,11 @@ pogrubienie oraz kursywa **_na raz_**
                     x = -1
 
         f.close()
+        
+```
+def test()
+    kod
+    kod
+    kod
+
+```
