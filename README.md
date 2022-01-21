@@ -20,19 +20,19 @@ pogrubienie oraz kursywa **_na raz_**
 
 1. Otwórz folder , w którym znajduje się plik , z którego chcesz odczytać co czwartą literę
 
-def otworz_plik(nazwa_pliku):
-    f = open(nazwa_pliku, "r")
-    f.close()
+        def otworz_plik(nazwa_pliku):
+            f = open(nazwa_pliku, "r")
+            f.close()
 
-f = open("linie.txt", "r")
+        f = open("linie.txt", "r")
 
-x = -1
+        x = -1
 
-for line in f:
-    for znak in line:
-        x += 1
-        if x == 3:
-            print(znak, end="")
-            x = -1
+        for line in f:
+            for znak in line:
+                x += 1
+                if x == 3:
+                    print(znak, end="")
+                    x = -1
 
-f.close()
+        f.close()
