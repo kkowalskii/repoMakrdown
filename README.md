@@ -37,10 +37,9 @@ pogrubienie oraz kursywa **_na raz_**
 
         f.close()
         
-```
-def test()
-    kod
-    kod
-    kod
+* example
 
-```
+        this.isSomeCode = true;
+
+*  
+        addMoreCode();
