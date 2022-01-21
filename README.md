@@ -39,7 +39,7 @@ pogrubienie oraz kursywa **_na raz_**
         
 * example
 
-        this.isSomeCode = true;
+        this.isSomeCode = true
 
 *  
-        addMoreCode();
+        addMoreCode()
