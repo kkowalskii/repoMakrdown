@@ -7,4 +7,7 @@ Niezły **Markdown**
 pogrubienie oraz kursywa **_na raz_**  
 ~~przekreślony tekst~~
 > cytat 
-
+> 1. First
+> 2. Second
+> 3. Third
+> 4. Fourth
