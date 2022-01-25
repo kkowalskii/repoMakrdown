@@ -44,4 +44,4 @@ pogrubienie oraz kursywa **_na raz_**
 *  
         addMoreCode()
         
-[![Random image](https://github.com/kkowalskii/repoMarkdown/blob/main/download.jpg?raw=true)
+![Random image](https://github.com/kkowalskii/repoMarkdown/blob/main/download.jpg?raw=true)
